@@ -1,0 +1,1395 @@
+{
+    "result": {
+        "seatingData": {
+            "screenLabel": "Screen 9",
+            "totalRows": 8,
+            "totalColumns": 16
+        },
+        "seatRows": [
+            {
+                "rowLabel": "A",
+                "rowIndex": 7,
+                "columns": [
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 15,
+                        "rowIndex": 7,
+                        "name": "A15",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 14,
+                        "rowIndex": 7,
+                        "name": "A14",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 13,
+                        "rowIndex": 7,
+                        "name": "A13",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 12,
+                        "rowIndex": 7,
+                        "name": "A12",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 11,
+                        "rowIndex": 7,
+                        "name": "A11",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 10,
+                        "rowIndex": 7,
+                        "name": "A10",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 9,
+                        "rowIndex": 7,
+                        "name": "A9",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 8,
+                        "rowIndex": 7,
+                        "name": "A8",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 7,
+                        "rowIndex": 7,
+                        "name": "A7",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    null,
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 5,
+                        "rowIndex": 7,
+                        "name": "A6",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 4,
+                        "rowIndex": 7,
+                        "name": "A5",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 3,
+                        "rowIndex": 7,
+                        "name": "A4",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 2,
+                        "rowIndex": 7,
+                        "name": "A3",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 1,
+                        "rowIndex": 7,
+                        "name": "A2",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 0,
+                        "rowIndex": 7,
+                        "name": "A1",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    }
+                ]
+            },
+            {
+                "rowLabel": "B",
+                "rowIndex": 6,
+                "columns": [
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 15,
+                        "rowIndex": 6,
+                        "name": "B15",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 14,
+                        "rowIndex": 6,
+                        "name": "B14",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 13,
+                        "rowIndex": 6,
+                        "name": "B13",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 12,
+                        "rowIndex": 6,
+                        "name": "B12",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 11,
+                        "rowIndex": 6,
+                        "name": "B11",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 10,
+                        "rowIndex": 6,
+                        "name": "B10",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 9,
+                        "rowIndex": 6,
+                        "name": "B9",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 8,
+                        "rowIndex": 6,
+                        "name": "B8",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 7,
+                        "rowIndex": 6,
+                        "name": "B7",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    null,
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 5,
+                        "rowIndex": 6,
+                        "name": "B6",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 4,
+                        "rowIndex": 6,
+                        "name": "B5",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 3,
+                        "rowIndex": 6,
+                        "name": "B4",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 2,
+                        "rowIndex": 6,
+                        "name": "B3",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 1,
+                        "rowIndex": 6,
+                        "name": "B2",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 0,
+                        "rowIndex": 6,
+                        "name": "B1",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    }
+                ]
+            },
+            {
+                "rowLabel": "C",
+                "rowIndex": 5,
+                "columns": [
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 15,
+                        "rowIndex": 5,
+                        "name": "C15",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 14,
+                        "rowIndex": 5,
+                        "name": "C14",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 13,
+                        "rowIndex": 5,
+                        "name": "C13",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 12,
+                        "rowIndex": 5,
+                        "name": "C12",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 11,
+                        "rowIndex": 5,
+                        "name": "C11",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 10,
+                        "rowIndex": 5,
+                        "name": "C10",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 9,
+                        "rowIndex": 5,
+                        "name": "C9",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 8,
+                        "rowIndex": 5,
+                        "name": "C8",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 7,
+                        "rowIndex": 5,
+                        "name": "C7",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    null,
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 5,
+                        "rowIndex": 5,
+                        "name": "C6",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 4,
+                        "rowIndex": 5,
+                        "name": "C5",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 3,
+                        "rowIndex": 5,
+                        "name": "C4",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 2,
+                        "rowIndex": 5,
+                        "name": "C3",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 1,
+                        "rowIndex": 5,
+                        "name": "C2",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 0,
+                        "rowIndex": 5,
+                        "name": "C1",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    }
+                ]
+            },
+            {
+                "rowLabel": "D",
+                "rowIndex": 4,
+                "columns": [
+                    null,
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 14,
+                        "rowIndex": 4,
+                        "name": "D13",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 13,
+                        "rowIndex": 4,
+                        "name": "D12",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 12,
+                        "rowIndex": 4,
+                        "name": "D11",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 11,
+                        "rowIndex": 4,
+                        "name": "D10",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 10,
+                        "rowIndex": 4,
+                        "name": "D9",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 9,
+                        "rowIndex": 4,
+                        "name": "D8",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 8,
+                        "rowIndex": 4,
+                        "name": "D7",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 4,
+                        "rowIndex": 4,
+                        "name": "D4",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 3,
+                        "rowIndex": 4,
+                        "name": "D3",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 2,
+                        "rowIndex": 4,
+                        "name": "D2",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 1,
+                        "rowIndex": 4,
+                        "name": "D1",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    null
+                ]
+            },
+            {
+                "rowLabel": "E",
+                "rowIndex": 3,
+                "columns": [
+                    null,
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 14,
+                        "rowIndex": 3,
+                        "name": "E13",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 13,
+                        "rowIndex": 3,
+                        "name": "E12",
+                        "seatStatus": 1,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 12,
+                        "rowIndex": 3,
+                        "name": "E11",
+                        "seatStatus": 1,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 11,
+                        "rowIndex": 3,
+                        "name": "E10",
+                        "seatStatus": 1,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 10,
+                        "rowIndex": 3,
+                        "name": "E9",
+                        "seatStatus": 1,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 9,
+                        "rowIndex": 3,
+                        "name": "E8",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 8,
+                        "rowIndex": 3,
+                        "name": "E7",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 4,
+                        "rowIndex": 3,
+                        "name": "E4",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 3,
+                        "rowIndex": 3,
+                        "name": "E3",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 2,
+                        "rowIndex": 3,
+                        "name": "E2",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000016",
+                        "areaNumber": 2,
+                        "columnIndex": 1,
+                        "rowIndex": 3,
+                        "name": "E1",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    null
+                ]
+            },
+            {
+                "rowLabel": "F",
+                "rowIndex": 2,
+                "columns": [
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 15,
+                        "rowIndex": 2,
+                        "name": "F15",
+                        "seatStatus": 1,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 14,
+                        "rowIndex": 2,
+                        "name": "F14",
+                        "seatStatus": 1,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 13,
+                        "rowIndex": 2,
+                        "name": "F13",
+                        "seatStatus": 1,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 12,
+                        "rowIndex": 2,
+                        "name": "F12",
+                        "seatStatus": 1,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 11,
+                        "rowIndex": 2,
+                        "name": "F11",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 10,
+                        "rowIndex": 2,
+                        "name": "F10",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 9,
+                        "rowIndex": 2,
+                        "name": "F9",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 8,
+                        "rowIndex": 2,
+                        "name": "F8",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 7,
+                        "rowIndex": 2,
+                        "name": "F7",
+                        "seatStatus": 0,
+                        "priority": 1,
+                        "seatsInGroup": null
+                    },
+                    null,
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 5,
+                        "rowIndex": 2,
+                        "name": "F6",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 4,
+                        "rowIndex": 2,
+                        "name": "F5",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 3,
+                        "rowIndex": 2,
+                        "name": "F4",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 2,
+                        "rowIndex": 2,
+                        "name": "F3",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 1,
+                        "rowIndex": 2,
+                        "name": "F2",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 0,
+                        "rowIndex": 2,
+                        "name": "F1",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    }
+                ]
+            },
+            {
+                "rowLabel": "G",
+                "rowIndex": 1,
+                "columns": [
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 15,
+                        "rowIndex": 1,
+                        "name": "G15",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 14,
+                        "rowIndex": 1,
+                        "name": "G14",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 13,
+                        "rowIndex": 1,
+                        "name": "G13",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 12,
+                        "rowIndex": 1,
+                        "name": "G12",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 11,
+                        "rowIndex": 1,
+                        "name": "G11",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 10,
+                        "rowIndex": 1,
+                        "name": "G10",
+                        "seatStatus": 0,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 9,
+                        "rowIndex": 1,
+                        "name": "G9",
+                        "seatStatus": 1,
+                        "priority": 0,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 8,
+                        "rowIndex": 1,
+                        "name": "G8",
+                        "seatStatus": 1,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000012",
+                        "areaNumber": 3,
+                        "columnIndex": 7,
+                        "rowIndex": 1,
+                        "name": "G7",
+                        "seatStatus": 1,
+                        "priority": 2,
+                        "seatsInGroup": null
+                    },
+                    null,
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 5,
+                        "rowIndex": 1,
+                        "name": "G6",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 4,
+                        "rowIndex": 1,
+                        "name": "G5",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 3,
+                        "rowIndex": 1,
+                        "name": "G4",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 2,
+                        "rowIndex": 1,
+                        "name": "G3",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 1,
+                        "rowIndex": 1,
+                        "name": "G2",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000018",
+                        "areaNumber": 4,
+                        "columnIndex": 0,
+                        "rowIndex": 1,
+                        "name": "G1",
+                        "seatStatus": 0,
+                        "priority": 3,
+                        "seatsInGroup": null
+                    }
+                ]
+            },
+            {
+                "rowLabel": "H",
+                "rowIndex": 0,
+                "columns": [
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 15,
+                        "rowIndex": 0,
+                        "name": "H15",
+                        "seatStatus": 0,
+                        "priority": 4,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 14,
+                        "rowIndex": 0,
+                        "name": "H14",
+                        "seatStatus": 0,
+                        "priority": 5,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 13,
+                        "rowIndex": 0,
+                        "name": "H13",
+                        "seatStatus": 0,
+                        "priority": 5,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 12,
+                        "rowIndex": 0,
+                        "name": "H12",
+                        "seatStatus": 7,
+                        "priority": 0,
+                        "seatsInGroup": [
+                            "0000000011_001_000_011",
+                            "0000000011_001_000_012"
+                        ]
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 11,
+                        "rowIndex": 0,
+                        "name": "HWB3",
+                        "seatStatus": 3,
+                        "priority": 0,
+                        "seatsInGroup": [
+                            "0000000011_001_000_011",
+                            "0000000011_001_000_012"
+                        ]
+                    },
+                    null,
+                    null,
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 8,
+                        "rowIndex": 0,
+                        "name": "HWB2",
+                        "seatStatus": 3,
+                        "priority": 0,
+                        "seatsInGroup": [
+                            "0000000011_001_000_007",
+                            "0000000011_001_000_008"
+                        ]
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 7,
+                        "rowIndex": 0,
+                        "name": "H7",
+                        "seatStatus": 7,
+                        "priority": 0,
+                        "seatsInGroup": [
+                            "0000000011_001_000_007",
+                            "0000000011_001_000_008"
+                        ]
+                    },
+                    null,
+                    null,
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 4,
+                        "rowIndex": 0,
+                        "name": "HWB1",
+                        "seatStatus": 3,
+                        "priority": 0,
+                        "seatsInGroup": [
+                            "0000000011_001_000_003",
+                            "0000000011_001_000_004"
+                        ]
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 3,
+                        "rowIndex": 0,
+                        "name": "H5",
+                        "seatStatus": 7,
+                        "priority": 0,
+                        "seatsInGroup": [
+                            "0000000011_001_000_003",
+                            "0000000011_001_000_004"
+                        ]
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 2,
+                        "rowIndex": 0,
+                        "name": "H3",
+                        "seatStatus": 0,
+                        "priority": 5,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 1,
+                        "rowIndex": 0,
+                        "name": "H2",
+                        "seatStatus": 0,
+                        "priority": 5,
+                        "seatsInGroup": null
+                    },
+                    {
+                        "areaCategoryCode": "0000000011",
+                        "areaNumber": 1,
+                        "columnIndex": 0,
+                        "rowIndex": 0,
+                        "name": "H1",
+                        "seatStatus": 0,
+                        "priority": 4,
+                        "seatsInGroup": null
+                    }
+                ]
+            }
+        ],
+        "areaCategories": [
+            {
+                "areaCategoryCode": "0000000016",
+                "areaName": "VIP",
+                "isSoldOut": false,
+                "areaDescription": "Our upgraded seat in the most popular location",
+                "areaColor": "#f7941e",
+                "seatIcons": [
+                    {
+                        "seatStatus": 0,
+                        "iconName": "vip_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/vip_seat_icon.svg?rev=a9630b9121ff4df68c627fa42fb06975",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 1,
+                        "iconName": "sold_vip_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/sold_vip_seat_icon.svg?rev=9a9847dd357c44019210b54d0d87f557",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 4,
+                        "iconName": "selected_vip_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/selected_vip_seat_icon.svg?rev=1e43cf9030f7400694edb00f99bb067a",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 7,
+                        "iconName": "vip_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/vip_seat_icon.svg?rev=a9630b9121ff4df68c627fa42fb06975",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 8,
+                        "iconName": "selected_vip_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/selected_vip_seat_icon.svg?rev=1e43cf9030f7400694edb00f99bb067a",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 9,
+                        "iconName": "sold_vip_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/sold_vip_seat_icon.svg?rev=9a9847dd357c44019210b54d0d87f557",
+                        "seatSecondaryIconSrc": null
+                    }
+                ]
+            },
+            {
+                "areaCategoryCode": "0000000012",
+                "areaName": "Regular",
+                "isSoldOut": false,
+                "areaDescription": "Our regular seat in the most popular location",
+                "areaColor": "#000000",
+                "seatIcons": [
+                    {
+                        "seatStatus": 0,
+                        "iconName": "regular_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/regular_seat_icon.svg?rev=c3746ec2cf9f47748b4f7308822a3c57",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 1,
+                        "iconName": "sold_regular_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/sold_regular_seat_icon.svg?rev=18f2266f216847c78be0e26446b569b3",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 4,
+                        "iconName": "selected_regular_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/selected_regular_seat_icon.svg?rev=69b267910f434357b4803111ace67571",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 7,
+                        "iconName": "regular_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/regular_seat_icon.svg?rev=c3746ec2cf9f47748b4f7308822a3c57",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 8,
+                        "iconName": "selected_regular_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/selected_regular_seat_icon.svg?rev=69b267910f434357b4803111ace67571",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 9,
+                        "iconName": "sold_regular_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/sold_regular_seat_icon.svg?rev=18f2266f216847c78be0e26446b569b3",
+                        "seatSecondaryIconSrc": null
+                    }
+                ]
+            },
+            {
+                "areaCategoryCode": "0000000018",
+                "areaName": "Saver",
+                "isSoldOut": false,
+                "areaDescription": "Our regular seats in a popular location",
+                "areaColor": "#41d282",
+                "seatIcons": [
+                    {
+                        "seatStatus": 0,
+                        "iconName": "saver_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/saver_seat_icon.svg?rev=0cea20fd8a4146ac843e104e7d4e903c",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 1,
+                        "iconName": "sold_saver_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/sold_saver_seat_icon.svg?rev=2a2b4c4eee9d4a70b9e7a5828397f673",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 4,
+                        "iconName": "selected_saver_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/selected_saver_seat_icon.svg?rev=4f59a66ffdd14df1bfe53a46a71a30a4",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 7,
+                        "iconName": "saver_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/saver_seat_icon.svg?rev=0cea20fd8a4146ac843e104e7d4e903c",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 8,
+                        "iconName": "selected_saver_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/selected_saver_seat_icon.svg?rev=4f59a66ffdd14df1bfe53a46a71a30a4",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 9,
+                        "iconName": "sold_saver_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/sold_saver_seat_icon.svg?rev=2a2b4c4eee9d4a70b9e7a5828397f673",
+                        "seatSecondaryIconSrc": null
+                    }
+                ]
+            },
+            {
+                "areaCategoryCode": "0000000011",
+                "areaName": "Super Saver",
+                "isSoldOut": false,
+                "areaDescription": "Our lowest priced regular seats",
+                "areaColor": "#c81919",
+                "seatIcons": [
+                    {
+                        "seatStatus": 0,
+                        "iconName": "recliner_available",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/recliner_available.svg?rev=2e5b51c9f10a41deb55c6f10ffcaca13",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 1,
+                        "iconName": "sold_regular_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/sold_regular_seat_icon.svg?rev=18f2266f216847c78be0e26446b569b3",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 3,
+                        "iconName": "special_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/special_seat_icon.svg?rev=8e878269bb63496fb1a87e0eac5312f8",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 4,
+                        "iconName": "recliner_reserved",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/recliner_reserved.svg?rev=95f4621a0d8c4203a9333223f48ca90e",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 7,
+                        "iconName": "recliner_available",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/recliner_available.svg?rev=2e5b51c9f10a41deb55c6f10ffcaca13",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 8,
+                        "iconName": "recliner_reserved",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/recliner_reserved.svg?rev=95f4621a0d8c4203a9333223f48ca90e",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 9,
+                        "iconName": "sold_regular_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/sold_regular_seat_icon.svg?rev=18f2266f216847c78be0e26446b569b3",
+                        "seatSecondaryIconSrc": null
+                    },
+                    {
+                        "seatStatus": 10,
+                        "iconName": "sold_special_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/sold_special_seat_icon.svg?rev=5bc10bcade7445e4800417e72678d272",
+                        "seatSecondaryIconSrc": "https://www.myvue.com/-/media/global/img/seats/selected_special_seat_icon.svg?rev=e4529316d686420faaa3da94b0d5104e"
+                    },
+                    {
+                        "seatStatus": 11,
+                        "iconName": "sold_special_seat_icon",
+                        "seatIconSrc": "https://www.myvue.com/-/media/global/img/seats/sold_special_seat_icon.svg?rev=5bc10bcade7445e4800417e72678d272",
+                        "seatSecondaryIconSrc": null
+                    }
+                ]
+            }
+        ],
+        "sessionOccupancy": 0.11627906976744186,
+        "ticketTiers": [
+            "VIP",
+            "Regular",
+            "Saver",
+            "Super Saver"
+        ]
+    },
+    "responseCode": 0,
+    "errorMessage": null
+}
